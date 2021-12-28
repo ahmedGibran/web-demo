@@ -47405,7 +47405,7 @@ $S:16}
 X.Dk.prototype={}
 S.yA.prototype={
 K(a,b){var s=null,r=this.c,q=r.b
-return T.xq(H.a([T.fI(s,q*0.02,s),new T.wk(2.25,U.a5c("assets/assets/images/home.jpg",s),s),T.fI(s,q*0.07,s),T.fI(T.xq(C.zh,C.ak,C.ba),s,r.a/1.3),T.fI(s,q*0.1,s)],t.E),C.ak,C.ba)}}
+return T.xq(H.a([T.fI(s,q*0.02,s),new T.wk(2.25,U.a5c("https://picsum.photos/250?image=9",s),s),T.fI(s,q*0.07,s),T.fI(T.xq(C.zh,C.ak,C.ba),s,r.a/1.3),T.fI(s,q*0.1,s)],t.E),C.ak,C.ba)}}
 N.r8.prototype={
 aF(){return new N.G5(C.n)}}
 N.G5.prototype={
