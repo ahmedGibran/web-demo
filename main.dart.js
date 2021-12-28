@@ -47347,7 +47347,7 @@ aY(){this.bB()},
 K(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null
 j.d=b.S(t.w).f.a
 if(0<j.gi2().b*0.45)j.gi2()
-if(j.gi2().a<700){s=M.a6e(i,i,new L.oR("images/logo.jpg",i,i))
+if(j.gi2().a<700){s=M.a6e(i,i,new L.oR("assets/assets/images/logo.jpg",i,i))
 s=new E.oP(new U.lZ(s,60,55,i),C.i,C.xN,!0,new E.uM(i,i,1/0,56),i)}else s=new X.xB(j.gi2(),j.x,j.r,new V.X_(j),i)
 r=t.E
 q=H.a([C.xa,T.fI(i,i,j.gi2().a/16)],r)
@@ -47388,7 +47388,7 @@ $0(){},
 $S:0}
 X.xB.prototype={
 gpo(){return new P.N(this.c.a,45)},
-K(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i=k.c.a,h=i*0.15,g=t.E,f=H.a([T.Rl(H.a([U.a5c("assets/images/logo.jpg",h)],g),C.ak,C.ba,C.bF),T.fI(j,j,i/16)],g),e=J.a1m(4,t.cl)
+K(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i=k.c.a,h=i*0.15,g=t.E,f=H.a([T.Rl(H.a([U.a5c("assets/assets/images/logo.jpg",h)],g),C.ak,C.ba,C.bF),T.fI(j,j,i/16)],g),e=J.a1m(4,t.cl)
 for(s=i/40,r=k.e,q=k.d,p=0;p<4;++p){o=new P.bs(100,100)
 n=r[p]
 m=n?C.aO:C.i
